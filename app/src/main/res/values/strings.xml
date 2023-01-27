@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Advisor</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="movie_genres">Movie Types</string>
+    <string name="movie_description">Movie Description</string>
+    <string-array name="movie_types">
+        <item>Movies Options</item>
+        <item>Adventure</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Action</item>
+        <item>Horror</item>
+        <item>Animation</item>
+        <item>Thriller</item>
+    </string-array>
+</resources>
